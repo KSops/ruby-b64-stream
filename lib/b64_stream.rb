@@ -1,0 +1,5 @@
+require_relative 'base64/consts.rb'
+require_relative 'base64/stream.rb'
+require_relative 'base64/cipher.rb'
+require_relative 'base64/encoder.rb'
+require_relative 'base64/decoder.rb'
